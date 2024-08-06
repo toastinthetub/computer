@@ -1,0 +1,15 @@
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (104, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!

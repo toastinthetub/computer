@@ -1,0 +1,233 @@
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] backspace was pressed!]
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool gy]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool g]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guys! w]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guys! ]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guys!]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guys]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy wait it wokrs now? no]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy wait it wokrs now? no it doesnt! ohw]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy wait it wokrs now? no it doesnt! ohw]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy wait it wokrs now? no it doesnt! ohw]
+[] backspace was pressed!
+[] current string: [okay yeah pretty cool guy wait it wokrs now? no it doesnt! oh]
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] backspace was pressed!
+[] current string: [oh fuck yeah]
+[] backspace was pressed!
+[] current string: [oh fuck yea]
+[] backspace was pressed!
+[] current string: [oh fuck ye]
+[] backspace was pressed!
+[] current string: [oh fuck y]
+[] backspace was pressed!
+[] current string: [oh fuck ]
+[] backspace was pressed!
+[] current string: [oh fuck]
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] backspace was pressed!
+[] current string: [okay yeah we have h]
+[] backspace was pressed!
+[] current string: [okay yeah we have ]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! h]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! ]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! that's pretty sick!]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! that's pretty sick]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! that's pretty sic]
+[] backspace was pressed!
+[] current string: [okay yeah we have the seperator and shit now! that's pretty si]
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
