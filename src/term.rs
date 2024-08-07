@@ -121,6 +121,10 @@ impl ResponseDomain {
             newline_index,
         }
     }
+    pub fn update(&mut self, size: (u16, u16)) {
+        self.zero = (0, 0); // because upper 2/3 of screen, top left will be 0, 0
+        self.size_e = (size.0, (2 * size.1) / 3); // full
+    }
 }
 
 impl PromptDomain {
@@ -136,6 +140,10 @@ impl PromptDomain {
             buf,
             newline_index,
         }
+    }
+    pub fn update(&mut self, size: (u16, u16)) {
+        self.zero = (0, (2 * size.1) / 3); // 0 on x, 2/3rds way down on y
+        self.size_e = (size.0, (size.1 - self.zero.1)); // effective size of window = (width, (distance from starting y coord to bottom))
     }
 }
 

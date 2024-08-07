@@ -1,4 +1,5 @@
 mod ai;
+mod color;
 mod computer;
 mod term;
 mod utils;
@@ -14,7 +15,12 @@ use utils::State;
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut state = State::build().unwrap();
-    state.event_listener().await.unwrap();
+    state.update_status("this is a status!");
+    let future = state.event_listener();
+    // println!("something async is happening.");
+    // tokio::time::sleep(std::time::Duration::from_secs(3)).await;
+    future.await.unwrap();
+    // println!("something async finished!");
     Ok(())
     // let ollama = Ollama::default();
 

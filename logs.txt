@@ -231,3 +231,1636 @@
 [] response domain constructed
 [] CANVAS SUCCESSFULLY CONSTRUCTED
 [] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (111, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: o
+[] debug event! if theres a keycode here it is: k
+[] debug event! if theres a keycode here it is: a
+[] debug event! if theres a keycode here it is: y
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: t
+[] debug event! if theres a keycode here it is: h
+[] debug event! if theres a keycode here it is: i
+[] debug event! if theres a keycode here it is: s
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: i
+[] debug event! if theres a keycode here it is: s
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: p
+[] debug event! if theres a keycode here it is: r
+[] debug event! if theres a keycode here it is: e
+[] debug event! if theres a keycode here it is: t
+[] debug event! if theres a keycode here it is: t
+[] debug event! if theres a keycode here it is: y
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: s
+[] debug event! if theres a keycode here it is: i
+[] debug event! if theres a keycode here it is: c
+[] debug event! if theres a keycode here it is: k
+[] debug event! if theres a keycode here it is: !
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: w
+[] debug event! if theres a keycode here it is: h
+[] debug event! if theres a keycode here it is: y
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: t
+[] debug event! if theres a keycode here it is: h
+[] debug event! if theres a keycode here it is: e
+[] debug event! if theres a keycode here it is: Space
+[] debug event! if theres a keycode here it is: f
+[] debug event! if theres a keycode here it is: u
+[] debug event! if theres a keycode here it is: c
+[] debug event! if theres a keycode here it is: k
+[] debug event! if theres a keycode here it is: .
+[] debug event! if theres a keycode here it is: .
+[] debug event! if theres a keycode here it is: .
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: ?
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Backspace
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: Enter
+[] debug event! if theres a keycode here it is: c
+[] ctrl c was pressed, exiting! final str:
+---
+okay this is pretty sick! why the fuck.
+
+
+
+
+
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: ! + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: . + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: c + Control
+[] ctrl c was pressed, exiting! final str:
+---
+fuck! why in the fuck nutes does it do that.
+
+
+
+
+
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: x + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: m + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: S + Shift
+[] debug event! if theres a keycode here it is: ? + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: ? + 
+[] debug event! if theres a keycode here it is: > + 
+[] debug event! if theres a keycode here it is: ? + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: j + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: c + Control
+[] ctrl c was pressed, exiting! final str:
+---
+does this fix my issue?>?nfuesknjfeskjfnskejfnsekfjsnekfjsnekfjsnekfjsnekfjsnekfjnsekfjnskefnskejfnsekjfsnkejfnkjnjnnnnnnnnnnn
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: p + 
+[] debug event! if theres a keycode here it is: r + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: l + 
+[] debug event! if theres a keycode here it is: ! + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: r + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: ' + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: r + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: ! + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: ' + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: b + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: ' + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: 1 + 
+[] debug event! if theres a keycode here it is: 2 + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: p + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: . + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: c + Control
+[] ctrl c was pressed, exiting! final str:
+---
+this is prettty cool! i wonder why thef uck this isn't working though! it's because it's at fucking 12 fps isnt it.
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: r + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: ? + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: w + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: l + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: r + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: ? + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: c + Control
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: y + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: h + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Backspace + 
+[] debug event! if theres a keycode here it is: e + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: . + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: t + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: p + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: d + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: k + 
+[] debug event! if theres a keycode here it is: i + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: g + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: s + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: o + 
+[] debug event! if theres a keycode here it is: f + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: a + 
+[] debug event! if theres a keycode here it is: Space + 
+[] debug event! if theres a keycode here it is: c + 
+[] debug event! if theres a keycode here it is: u + 
+[] debug event! if theres a keycode here it is: n + 
+[] debug event! if theres a keycode here it is: ! + 
+[] debug event! if theres a keycode here it is: Enter + 
+[] debug event! if theres a keycode here it is: c + Control
+[] ctrl c was pressed, exiting! final str:
+---
+okay yeah that fucking does it. stupid fucking son of a cun!
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (123, 28)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] ctrl c was pressed, exiting! final str:
+---
+okay pretty cool
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (195, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] hey! the size of the terminal changed!
+[] ctrl c was pressed, exiting! final str:
+---
+okay cool! pretty sick i feel like
+now i need to fix newlines.
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (109, 23)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+v
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] unhandled keypress! key: Up
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+ok this is pretty sick!
+did it work?
+fuck! no!
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+this is pretty fucking cool!
+hahahah!
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] unhandled keypress! key: Up
+[] ctrl c was pressed, exiting! final str:
+---
+v
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
+[] BUILDING COMPUTER]
+[] building ollama!
+[] successfully built model
+[] successfully built history vec
+[] successfully built ollama and chat vector!
+[] BUILDING CANVAS
+[] entered alternate screen successfully
+[] raw terminal enabled
+[] successfully disabled line wrapping
+[] successfully cleared alternate screen buffer
+[] retrieved terminal size: (224, 60)
+[] response domain constructed]
+[] response domain constructed
+[] CANVAS SUCCESSFULLY CONSTRUCTED
+[] successfully built computer!
+[] ctrl c was pressed, exiting! final str:
+---
+
+---
+
