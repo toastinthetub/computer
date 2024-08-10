@@ -4,17 +4,24 @@ use ollama_rs::{
     Ollama,
 };
 
-use std::error::Error;
+use std::{
+    error::Error,
+    io::Write,
+    sync::{Arc, Mutex},
+};
 
-#[derive(Debug, Clone)]
+use crate::utils::State;
+
+#[derive(Clone)]
 pub struct Computer {
     pub ollama: Ollama,
-    pub history: Vec<ChatMessage>,
+    pub history: Arc<Mutex<Vec<ChatMessage>>>,
+    pub stream: Arc<Mutex<ChatMessageResponseStream>>,
     pub canvas: Canvas,
 }
 
 impl Computer {
-    pub fn build() -> Result<Self, Box<dyn Error>> {
+    pub async fn build() -> Result<Self, Box<dyn Error>> {
         logger("[] BUILDING COMPUTER]");
         let (ollama, history) = match build_ollama() {
             Ok((ollama, history)) => {
@@ -33,9 +40,21 @@ impl Computer {
                 return Err(e); // lol forgot this was already in a box
             }
         };
+        let history: Arc<Mutex<Vec<ChatMessage>>> = Arc::new(Mutex::new(history));
+        let history = history.lock().unwrap();
+        let stream: ChatMessageResponseStream = ollama
+            .send_chat_messages_stream(ChatMessageRequest::new(
+                "llama2-uncensored:latest".to_string(),
+                history.clone(),
+            ))
+            .await?;
+        std::mem::drop(history);
+        let history: Arc<Mutex<Vec<ChatMessage>>> = Arc::new(Mutex::new(Vec::new()));
+        let stream = Arc::new(Mutex::new(stream));
         Ok(Self {
             ollama,
             history,
+            stream,
             canvas,
         })
     }
